@@ -1,0 +1,9 @@
+
+environment:
+ DATABASE_URL: ${DATABASE_URL}
+packages:
+    - name: myforms
+     
+      functions:
+        - name: sendforms
+         
